@@ -10,7 +10,7 @@ GRYHAT is an AI-native cybersecurity and marketing technology company in Orange 
 
 | Product                         | What it is                                                                                                                                                                                                                                                |
 | ------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Citadel VPN & WiFi Security** | iOS app, live on the App Store. WireGuard tunnel plus a WiFi threat scanner. Zero data collection by design.                                                                                                           |
+| **Citadel VPN & WiFi Security** | iOS app, live on the App Store. WireGuard tunnel plus a WiFi threat scanner. Zero data collection by design.                                                                                                                                              |
 | **GRYHAT Sentinel**             | Four-layer managed security: encrypted tunnel mesh, autonomous EDR, MDR with a cyber-insurance backstop, and human-layer awareness training. One stack, one accountable party.                                                                            |
 | **IAiGACB**                     | A free, community-built licensing framework for AI. Systems tiered by capability, operators licensed by skill, every deployed AI serialized to the license that bought it. [Read it](https://github.com/TheGRYHAT/iaigacb-framework). We only started it. |
 | **YouFeelingLucky.com**         | AI-native marketing for Orange County businesses. We run our own newsletter through it: 8.58% click rate against an industry average of 2–3%.                                                                                                             |
@@ -61,6 +61,7 @@ Southern California businesses and DoD contractors that need real security and r
 - 🍀 [youfeelinglucky.com](https://youfeelinglucky.com) — AI-native marketing
 - 📜 [IAiGACB framework](https://github.com/TheGRYHAT/iaigacb-framework) — free AI licensing standard
 - 📰 [The Debrief](https://gryhat.com/need2know) — weekly intel drop
+- ▶️ [YouTube](https://www.youtube.com/@TheCitadelCyber) — the clips, 28 and counting
 - 📍 Orange County, California
 
 ---
